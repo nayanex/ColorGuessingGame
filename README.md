@@ -16,23 +16,23 @@ As you can see, the objective of the game is for the player to guess the color w
 
 A response from the browser will then be shown.
 
-1. If the color entered by the player is not in the array of colors used by the game, an appropriate message like this is shown:
+* If the color entered by the player is not in the array of colors used by the game, an appropriate message like this is shown:
 
 ![Color Not Recognized Message](Screenshots/colorNotRecognizedMessage.png?raw=true "Color Not Recognized Message")
 
-2. If the color entered by the player is in the list of colors used by the game but the color entered by the player is alphabetically higher than the answer, an appropriate message like this is shown:
+* If the color entered by the player is in the list of colors used by the game but the color entered by the player is alphabetically higher than the answer, an appropriate message like this is shown:
 
 ![Color Alphabetically Higher Message](Screenshots/ColorAlphabeticallyHigherMessage.png?raw=true "Color Alphabetically Higher Message")
 
-3. If the color entered by the player is in the list of colors used by the game but the color entered by the player is alphabetically lower than the answer, an appropriate message like this is shown:
+* If the color entered by the player is in the list of colors used by the game but the color entered by the player is alphabetically lower than the answer, an appropriate message like this is shown:
 
 ![Color Alphabetically Lower Message](Screenshots/ColorAlphabeticallyLowerMessage.png?raw=true "Color Alphabetically Lower Message")
 
-4. If the color entered by the player is correct the web page background is changed to that color and an appropriate message is shown:
+* If the color entered by the player is correct the web page background is changed to that color and an appropriate message is shown:
 
 ![Congratulations Message](Screenshots/CongratulationsMessage.png?raw=true "Congratulations Message")
 
-This is what a web page looks like when the message is shown on top of a web page where the background has been changed to orange.
+* This is what a web page looks like when the message is shown on top of a web page where the background has been changed to orange.
 
 ![Background Changed](Screenshots/BackgroundChanged.png?raw=true "Background Changed")
 
